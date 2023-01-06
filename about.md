@@ -1,6 +1,7 @@
 ---
 layout: post
 title: About
+description: More on Erg-Reg
 permalink: /about/
 ---
 
