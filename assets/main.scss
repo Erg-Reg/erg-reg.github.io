@@ -4,6 +4,10 @@
 
 @import "{{ site.theme }}";
 
+span.blockspam {
+  display: none;
+}
+
 .nav {
   box-shadow: 0 2px 2px -2px $shadow-color;
   overflow: auto;
