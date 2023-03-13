@@ -11,5 +11,3 @@ Posts about Morocco and the Sahara by Raf Verbeelen. Spent quite a few years in 
 - [Mastodon](https://mastodon.online/@ergreg)
 - RSS
 - [Twitter](https://twitter.com/rafverbeelen)
-
-Site made with [Jekyll](https://jekyllrb.com), based on the [Tale](https://github.com/chesterhow/tale/) theme and hosted on [GitHub Pages](https://github.com/Erg-Reg/erg-reg.github.io/tree/gh-pages). Dune icons created by [Freepik - Flaticon](https://www.flaticon.com/free-icons/dune).
