@@ -9,4 +9,9 @@ Posts about Morocco and the Sahara by Raf Verbeelen. Spent quite a few years in 
 
 On Mastodon (@ergreg@mastodon.online) and [Twitter](https://twitter.com/rafverbeelen). Mail <span class="blockspam" aria-hidden="true">Try better</span>raf@<!-- sdfjsdhfkjypcs -->erg-reg.com.
 
-*Site made with [Jekyll](https://jekyllrb.com), based on the [Tale](https://github.com/chesterhow/tale/) theme and hosted on [GitHub Pages](https://github.com/Erg-Reg/erg-reg.github.io/tree/gh-pages). Dune icons created by [Freepik - Flaticon](https://www.flaticon.com/free-icons/dune).*
+- Mail: <span class="blockspam" aria-hidden="true">Try better</span>raf@<!-- sdfjsdhfkjypcs -->erg-reg.com
+- Mastodon: @ergreg@mastodon.online
+- RSS: 
+- Twitter: [@rafverbeelen](https://twitter.com/rafverbeelen)
+
+Site made with [Jekyll](https://jekyllrb.com), based on the [Tale](https://github.com/chesterhow/tale/) theme and hosted on [GitHub Pages](https://github.com/Erg-Reg/erg-reg.github.io/tree/gh-pages). Dune icons created by [Freepik - Flaticon](https://www.flaticon.com/free-icons/dune).
